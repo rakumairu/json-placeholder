@@ -61,7 +61,7 @@
     {
       "expired_date": "2020-03-15",
       "code": "PAC210",
-      "ownership": "local",
+      "ownership": "all",
       "name": "something",
       "apartment": "apartment",
       "rent_period": "12 months",
@@ -69,12 +69,12 @@
       "expired_in": "3 days",
       "due_date": "sometdue date",
       "pic": "demas",
-      "status": "set local"
+      "status": "all"
     },
     {
       "expired_date": "2020-03-15",
       "code": "PAC210",
-      "ownership": "local",
+      "ownership": "all",
       "name": "something",
       "apartment": "apartment",
       "rent_period": "12 months",
@@ -82,12 +82,12 @@
       "expired_in": "3 days",
       "due_date": "sometdue date",
       "pic": "demas",
-      "status": "set local"
+      "status": "all"
     },
     {
       "expired_date": "2020-03-15",
       "code": "PAC210",
-      "ownership": "local",
+      "ownership": "all",
       "name": "something",
       "apartment": "apartment",
       "rent_period": "12 months",
@@ -95,12 +95,12 @@
       "expired_in": "3 days",
       "due_date": "sometdue date",
       "pic": "demas",
-      "status": "set local"
+      "status": "all"
     },
     {
       "expired_date": "2020-03-15",
       "code": "PAC210",
-      "ownership": "local",
+      "ownership": "all",
       "name": "something",
       "apartment": "apartment",
       "rent_period": "12 months",
@@ -108,12 +108,12 @@
       "expired_in": "3 days",
       "due_date": "sometdue date",
       "pic": "demas",
-      "status": "set local"
+      "status": "all"
     },
     {
       "expired_date": "2020-03-15",
       "code": "PAC210",
-      "ownership": "local",
+      "ownership": "all",
       "name": "something",
       "apartment": "apartment",
       "rent_period": "12 months",
@@ -121,12 +121,12 @@
       "expired_in": "3 days",
       "due_date": "sometdue date",
       "pic": "demas",
-      "status": "set local"
+      "status": "all"
     },
     {
       "expired_date": "2020-03-15",
       "code": "PAC210",
-      "ownership": "local",
+      "ownership": "all",
       "name": "something",
       "apartment": "apartment",
       "rent_period": "12 months",
@@ -134,12 +134,12 @@
       "expired_in": "3 days",
       "due_date": "sometdue date",
       "pic": "demas",
-      "status": "set local"
+      "status": "all"
     },
     {
       "expired_date": "2020-03-15",
       "code": "PAC210",
-      "ownership": "local",
+      "ownership": "all",
       "name": "something",
       "apartment": "apartment",
       "rent_period": "12 months",
@@ -147,12 +147,12 @@
       "expired_in": "3 days",
       "due_date": "sometdue date",
       "pic": "demas",
-      "status": "set local"
+      "status": "all"
     },
     {
       "expired_date": "2020-03-15",
       "code": "PAC210",
-      "ownership": "local",
+      "ownership": "all",
       "name": "something",
       "apartment": "apartment",
       "rent_period": "12 months",
@@ -160,12 +160,12 @@
       "expired_in": "3 days",
       "due_date": "sometdue date",
       "pic": "demas",
-      "status": "set local"
+      "status": "all"
     },
     {
       "expired_date": "2020-03-15",
       "code": "PAC210",
-      "ownership": "local",
+      "ownership": "all",
       "name": "something",
       "apartment": "apartment",
       "rent_period": "12 months",
@@ -173,12 +173,12 @@
       "expired_in": "3 days",
       "due_date": "sometdue date",
       "pic": "demas",
-      "status": "set local"
+      "status": "all"
     },
     {
       "expired_date": "2020-03-15",
       "code": "PAC210",
-      "ownership": "local",
+      "ownership": "all",
       "name": "something",
       "apartment": "apartment",
       "rent_period": "12 months",
@@ -186,7 +186,7 @@
       "expired_in": "3 days",
       "due_date": "sometdue date",
       "pic": "demas",
-      "status": "set local"
+      "status": "all"
     }
   ]
 }
