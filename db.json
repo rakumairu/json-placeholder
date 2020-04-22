@@ -1,4 +1,56 @@
 {
+  "manage_unit": [
+    {
+      "id": 1,
+      "unit_code": "PAC211",
+      "apartment": "apartment",
+      "tower": "tower",
+      "lantai": 20,
+      "no_unit": "20A",
+      "available": "1",
+      "available_sell": "0"
+    },
+    {
+      "id": 4,
+      "unit_code": "PAC214",
+      "apartment": "apartment",
+      "tower": "tower",
+      "lantai": 20,
+      "no_unit": "20A",
+      "available": "0",
+      "available_sell": "0"
+    },
+    {
+      "id": 2,
+      "unit_code": "PAC212",
+      "apartment": "apartment",
+      "tower": "tower",
+      "lantai": 20,
+      "no_unit": "20A",
+      "available": "1",
+      "available_sell": "0"
+    },
+    {
+      "id": 3,
+      "unit_code": "PAC213",
+      "apartment": "apartment",
+      "tower": "tower",
+      "lantai": 20,
+      "no_unit": "20A",
+      "available": "1",
+      "available_sell": "0"
+    },
+    {
+      "id": 5,
+      "unit_code": "PAC215",
+      "apartment": "apartment",
+      "tower": "tower",
+      "lantai": 20,
+      "no_unit": "20A",
+      "available": "1",
+      "available_sell": "1"
+    }
+  ],
   "priority_list": [
     {
       "kode_unit": "pac",
